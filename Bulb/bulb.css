@@ -1,0 +1,31 @@
+.bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    border: solid black 4px;
+    background-color: rgb(52, 207, 24);
+    margin: 10px;
+}
+
+.on{
+    height: 50px;
+    width: 100px;
+    color: brown;
+    padding: 6px;
+    margin: 10px;
+    margin-left: 50px;
+    background-color: antiquewhite;
+    border-radius: 50px;
+}
+
+
+.off{
+    height: 50px;
+    width: 100px;
+    color: brown;
+    padding: 6px;
+    margin: 10px;
+   
+    background-color: antiquewhite;
+    border-radius: 50px;
+}
